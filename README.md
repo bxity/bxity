@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **boityy.js@gmail.com**
 
-- 📄 Know about my experiences [pop an email for my resume! 😁](pop an email for my resume! 😁)
+- 📄 Know about my experiences (pop an email for my resume! 😁)
 
 - ⚡ Fun fact about me **I speak many languages**
 
