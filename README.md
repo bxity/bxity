@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [bxity/boity-portfolio](bxity/boity-portfolio)
 
-- ❓Other interests [ux/ui design](ux/ui design)
+- ❓Other interests are (ux/ui design)
 
 - 💬 Ask me about **react**
 
