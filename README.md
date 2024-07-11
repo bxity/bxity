@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python as well as sql**
 
-- 👨‍💻 All of my projects are available at [bxity/boity-portfolio](bxity/boity-portfolio)
+- 👨‍💻 My projects are available at [bxity/boity-portfolio](bxity/boity-portfolio)
 
 - ❓Other interests are (ux/ui design)
 
