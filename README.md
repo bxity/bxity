@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 My projects are available at [bxity/boity-portfolio](bxity/boity-portfolio)
+- 👨‍💻 My projects are available at [bxity/boity-portfolio](https://boity-portfolio.netlify.app)
 
 - ❓Other interests are (ux/ui design)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **boityy.js@gmail.com**
 
-- 📄 Know about my experiences (pop an email for my resume! 😁)
+- 📄 Know about my experiences **(pop an email for my resume! 😁)**
 
 - ⚡ Fun fact about me **I speak many languages**
 
