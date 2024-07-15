@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 My projects are available at [bxity/boity-portfolio](https://boity-portfolio.netlify.app)
+- 👨‍💻 My projects are available at [https://boity-portfolio.netlify.app](https://boity-portfolio.netlify.app)
 
 - ❓Other interests are (ux/ui design)
 
