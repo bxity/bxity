@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a javascript tic tac toe game**
 
-- 🌱 I’m currently learning **python as well as sql**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 My projects are available at [bxity/boity-portfolio](bxity/boity-portfolio)
 
